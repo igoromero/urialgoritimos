@@ -27,7 +27,7 @@
 
 <p align="justify">
     
-Objetivo deste repositório é compartilhar os códigos desenvolvidos durante as disciplinas de Algoritmos e Grafos 2018.1 do Programa de POS-GRADUAÇÃO [PGCOMP UFBA](http://wiki.dcc.ufba.br/PGComp/) ministrada pelo professor [Tiago Januario](https://www.linkedin.com/in/januarioccp) .
+Objetivo deste repositório é compartilhar os códigos desenvolvidos durante as disciplinas de Algoritmos e Grafos 2018.1 do Programa de POS-GRADUAÇÃO [PGCOMP UFBA](http://wiki.dcc.ufba.br/PGComp/).
 Os problemas apresentados foram extraídos da plataforma de maratona de programação [URI](https://www.urionlinejudge.com.br/judge/pt) .
 
 Para resolução dos problemas foram utilizadas estruturas de dados (pilha, fila, grafos...) além de técnicas avançadas de programação para atender os critérios da plataforma como: tratamento de entradas e saídas de dados e tempo de execução.
