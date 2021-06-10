@@ -135,7 +135,7 @@ Seu programa deverá imprimir "COPS" caso o grupo dos policiais ganhem, e "ROBBE
 
 ...
 
-## Algoritimos para Grafos
+## Grafos
 
 
 [URI Componentes Conexos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1905) || [Codigo Solução](https://github.com/igoromero/urialgoritimos/blob/main/grafos/componentesconexos.java)
