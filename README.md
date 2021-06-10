@@ -12,11 +12,11 @@
 
 :small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Programação Dinâmica](#programação-Dinâmica)
+:small_blue_diamond: [Programação Dinâmica](#programação-dinâmica)
 
-:small_blue_diamond: [Algoritmos Gulosos](#algoritmos_gulosos)
+:small_blue_diamond: [Gulosos](#gulosos)
 
-:small_blue_diamond: [Backtracking](#backtrack)
+:small_blue_diamond: [Backtracking](#backtracking)
 
 :small_blue_diamond: [Grafos](#grafos)
 
@@ -41,7 +41,7 @@ Para resolução dos problemas foram utilizadas estruturas de dados (pilha, fila
 
 :heavy_check_mark: Backtracking 
 
-:heavy_check_mark: Algoritimos para Grafos
+:heavy_check_mark: Algoritmos para Grafos
 
 ## Programação Dinâmica
 
@@ -85,7 +85,7 @@ Para cada caso de teste seu programa deverá imprimir uma linha com a seguinte f
 
 ...
 
-## Algoritmos Gulosos
+## Gulosos
 
 
 [URI Apagando e Ganhando](https://www.urionlinejudge.com.br/judge/pt/problems/view/1084) || [Codigo Solução](https://github.com/igoromero/urialgoritimos/blob/main/alggulosos/apagaganha.java)
